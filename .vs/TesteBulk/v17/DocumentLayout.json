@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\C#\\TesteBulk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F56175FF-C4B4-4108-BC6C-600279E767BA}|WebApi\\WebApi.csproj|c:\\projetos\\c#\\testebulk\\webapi\\extensions\\efdbcontextbulkextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56175FF-C4B4-4108-BC6C-600279E767BA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\extensions\\efdbcontextbulkextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56175FF-C4B4-4108-BC6C-600279E767BA}|WebApi\\WebApi.csproj|c:\\projetos\\c#\\testebulk\\webapi\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56175FF-C4B4-4108-BC6C-600279E767BA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56175FF-C4B4-4108-BC6C-600279E767BA}|WebApi\\WebApi.csproj|c:\\projetos\\c#\\testebulk\\webapi\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56175FF-C4B4-4108-BC6C-600279E767BA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56175FF-C4B4-4108-BC6C-600279E767BA}|WebApi\\WebApi.csproj|c:\\projetos\\c#\\testebulk\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56175FF-C4B4-4108-BC6C-600279E767BA}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\TesteBulk\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Projetos\\C#\\TesteBulk\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T00:21:05.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\TesteBulk\\WebApi\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Projetos\\C#\\TesteBulk\\WebApi\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "WebApi\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T00:18:12.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfDbContextBulkExtension.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\TesteBulk\\WebApi\\Extensions\\EfDbContextBulkExtension.cs",
+              "RelativeDocumentMoniker": "WebApi\\Extensions\\EfDbContextBulkExtension.cs",
+              "ToolTip": "C:\\Projetos\\C#\\TesteBulk\\WebApi\\Extensions\\EfDbContextBulkExtension.cs",
+              "RelativeToolTip": "WebApi\\Extensions\\EfDbContextBulkExtension.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAYwAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T00:51:03.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItemController.cs",
+              "DocumentMoniker": "C:\\Projetos\\C#\\TesteBulk\\WebApi\\Controllers\\TodoItemController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\TodoItemController.cs",
+              "ToolTip": "C:\\Projetos\\C#\\TesteBulk\\WebApi\\Controllers\\TodoItemController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\TodoItemController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:48:22.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
